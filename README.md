@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/DevCloty/QR-Code-Component)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://devcloty.github.io/QR-Code-Component/)
 
 ## My process
 
